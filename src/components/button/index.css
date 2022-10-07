@@ -1,0 +1,15 @@
+#button {
+    padding: 1em 3em;
+    border: none;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+
+    background-color: #487ABE;
+
+    color: #ffffff;
+    font-weight: 600;
+    font-size: 1em;
+}

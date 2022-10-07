@@ -1,0 +1,25 @@
+#home-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    width: 100vw;
+    height: 100vh;
+}
+
+.logo {
+    height:  40%;
+}
+
+.page-content {
+    display : flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+h1 {
+    font-size: 3em;
+}

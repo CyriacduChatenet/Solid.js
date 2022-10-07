@@ -1,0 +1,20 @@
+.action-btn {
+    padding: 0.5em 1.5em;
+    border: none;
+    border-radius:10px;
+    -webkit-border-radius:10px;
+    -moz-border-radius:10px;
+    -ms-border-radius:10px;
+    -o-border-radius:10px;
+
+    background-color: #7db5e9;
+
+    color: #ffffff;
+    font-size: 1em;
+    font-weight: 600;
+}
+
+#blog-page {
+    padding: 0 120px;
+    width: auto;
+}
